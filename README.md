@@ -1,3 +1,3 @@
-# local repo
+# Another repo
 
-just some random text becouse I'm bored
+just some random text because I'm bored
